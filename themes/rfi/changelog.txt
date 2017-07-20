@@ -1,0 +1,199 @@
+Version 1.9 (26.05.2013)
+- [New] Pinterest social icon added to site socials
+- Fix: The issue with hover transitin on buttons in webkit browsers fixed
+- Fix: The issue with custom numeric permalinks fixed
+- Fix: Lightbox (PrettyPhoto) issue with jQuery version 1.9 fixed.
+- Improve: Now Event date in news section is localized
+- Fix: The issue with color option for changing icons color fixed.
+- Fix: The issue with quote post format on latest blog element in smart page builder fixed.
+- Fix: Some shortcodes didn't work on column element in smart page builder, now it's fixed.
+
+
+Version 1.8 (23.05.2013)
+- [New] Now you can add captions on portfolio images in portfolio single page
+- [New] Added a feature to get first image of post content as featured image if featured image is not available
+- [New] New option added for changing navigation height from option panel
+- Fix: navigation issue on android devices fixed - now responsive menu toggles by click, not hover
+- Fix: The issue with displaying images in recent products widget fixed
+- Fix: Carousel issue on iphone5 fixed 
+- [New] New preset background patterns added to option panel
+- Fix: The bug on attachment preview page fixed
+- [New] Added instagram social option to site socials
+- [New] Google+ share button added to portfolio and product single page
+- [New] Auto reloading color options after saving new options. Now you don't need to clear your browser cache in order to see latest changes.
+- [New] New option added in option panel to select between displying "summary" or "full content" for each blog post on blog listing page
+- [New] New option added in option panel to select between displying "summary" or "full content" for each news post on news listing page
+- Improve: Some improvements on services single page for displaying shortcodes
+- Improve: Better SEO on images
+- Fix: The issue with displaying tumblr social icon on top header fixed
+- Fix: The issue with hiding price on product element(Thumb view) in smart page builder fixed.
+- Update: Shortcode list updated
+- Improve: Translate file updated
+- Improve: jQuery updated to 1.9.1 and nivoslider to latest
+- Improve: Major improvements on responsiveness
+- Improve: Better styling for testimonial widget when the image is not set
+- Improve: Improvement in style of lightbox in galley view 
+
+
+Version 1.71 (24.04.2013)
+- Fixe: The issue with excerpt length number in page builder elements
+- Improve: content preview in service single pages
+
+
+Version 1.7 (23.04.2013)
+- [New] now, lotus will expand to 1140 pixel width in big screens (also you can turn it off from option panel)
+- [New] Added options for changing the background and text color in top header bar
+- update: now 600+ google fonts are available
+- [New] Added full and landing layout for blog category page
+- [New] Added options for blog category page to option panel 
+- [New] Added pinterest share link to portfolio and product pages.
+- [New] Included 5 demo content files in download package (agency, business, personal, showcase, food)
+- [New] Added manual ordering for news posts
+- [New] Added more sizes for slider element in page builder
+- [New] Enabled shortcodes on tab and accordion elements 
+- [New] Added Feature to hide comment number on blog and news listing page when comment is close
+- [New] Added Slug translation for all custom post types. now url slugs are translatable through translate file.
+- [New] Added manual ordering for services, FAQs and testimonials
+- [New] Added Shortcode support for services grid view
+- [New] Added a feature for scaling down big logo images on small screens
+- Improve: Search resault by excluding attachment type from results
+- Fix: Now browser dont scale up small images on product page
+- Fix: The issue with small feature images on news and blog posts
+- Fix: The issue with social share links on portfolio single page
+- Improve: Translate file improved. now "note for translator" is visible in translate file
+- Improve: Now shortcodes are enabled on portfolio and product meta labels
+- Fix: The issue with import tool in theme option panel
+- Fix: The bug in portfolio slider for youtu.be links 
+- Fix: The preview feature for nivoslider and flexslider
+- Update: Several typo fixed in translate file
+- Improve: Style for image with caption in page content improved. now extra minimal!
+- Improve: The style for floated elements in tab element content improved.
+- Improve: Added a wrapper for column shortcode. now when you click on column shortcode button a wrapper will be added too.
+- Improve: wmpl flags now looks great on small screens too
+- Removed: http verification from url field in contact form removed.
+
+
+Version 1.6 (06.04.2013)
+- Added WPML support - now theme is multilingual ready
+- Added smart page builder to single staff page, now you can take the advantages of page builder on staff pages 
+- Added a custom column to display slider shortcode on edit page
+- Added some translation strings to po file
+- Updated now portfolio listing page will display tags/filters for selected categories, not all
+- Fixed the address in contact form widget
+- Fixed the text selection color on chrome
+- Fixed a bug in footer menu
+- Fixed the social links bug in IE8
+- Fixed nivo slider issue for image link (was not clickable) in IE8
+
+
+Version 1.53 (30.03.2013)
+- Important bug fixed on option panel
+
+Version 1.52 (29.03.2013)
+- Added options for changing background color, text and link colors in footer area
+- Added a field for uploading second logo for displaying on retina screens
+- Updated contact form 7 styles for better integration.
+- Added compatibility with Newsletter Sign-Up plugin 
+- Added an option to turn on/off social links on product and portfolio pages
+- Added an option to select navigation type on portfolio or product.types : breadcrumb, next/prev, none
+- Fixed a bug for changing the sidebar position on blog single pages
+- Updated styles for content of column element
+- Updated translate files
+
+Version 1.5 (25.03.2013)
+- Updated layer slider to latest version (v4.1.1)
+- Updated revolution slider to latest version (v2.3.5)
+- Added smart page buider to service pages. now you can take the advantages of page builder on service pages too
+- Added feature to video post format, now you have option to display feature image instead of video too
+- Added compatibility for jetpack comments
+- Added order attribute for service pages, now you can order services manually
+- Improvement in self hosted video player
+- Fixed link shortcode button in wp editor
+- Fixed the bug in price table when the custom rows are empty
+- Fixed the issue with empty list of custom sidebars on some post types
+- Fixed the social buttons on prettyPhoto lightbox
+- Updated social links, now links open in new window
+- Updated some javascript libraries to latest version
+- Updated translate files, some words on search and comment form added to translate file.
+- Updated excluded the color of callout button from main heading color
+- Fixed the style issue on page element in smart page builder
+- Fixed bug on displaying callout button in safari
+
+
+Version 1.4 (12.03.2013)
+- [feature] Added an option for changing the font of header navigation
+- [feature] Added masonry layout for gallery page
+- [feature] Added an option in typography section for loading latin charecters
+- [feature] Added support for order attribute on portfolio and product page
+- [feature] Added a max-height option to flex slider and nivo slider. now you can add height limit for them.
+- [feature] Added support for short youtube links
+- [feature] Added an option to hide overview on product page if it is not set
+- [feature] Added supprt for relative image URLs on product and portfolio pages
+- [feature] Added category to breadcrumb on product and portfolio page
+- [feature] Added a feature to add custom date for news, so news can be used for displaying future events
+- Fixed the compatibility issue with jetpack plugin
+- Updated products page filtering, now just filters for selected categories will be displaied on products page
+- Updated translate file, some new words added to .po file
+- Fixed the bug that page builder could not be saved as draft.
+- Fixed the callout button issue on ipad
+- Improved product page style
+- Improved title section for very displaying very long titles
+
+
+Version 1.32 (07.03.2013)
+- [feature] Added HTML editor to column element in smart page builder
+- [feature] Added feature to auto switch to boxed layout on pages with custom background
+- [feature] Added Overview section to product pages.
+- [feature] Added 110 new google fonts
+
+Version 1.3 (01.03.2013)
+- [feature] Added auto play option for blog and news element
+- [feature] Added auto play option for clients element
+- [feature] Added fallback method for limited share hostings
+- [feature] Added Auto resize on long meta tags for product page
+- [feature] Added more available meta tags for portfolio items
+- Fixed bug on sending comment in contact form
+- Updated some word missing from translate file
+- Improvement while saving options in option panel
+
+
+
+Version 1.2 (25.02.2013)
+- [feature] Added html support in top header message
+- [feature] Added a color option for customizing color of callout button
+- [feature] Added a color option for customizing color of font icons
+- [feature] Added import / export option to option panel
+- [feature] Added more meta tags for product section
+- [feature] Added video to portfolios as slider
+- [feature] Added smart page builder to portfolio edit page
+- [feature] Added option for changing project's link label and link
+- [feature] Added feature to link services to single pages
+- Fixed striping slashes from custom css output
+- Fixed pricetable issue on 5 columns table
+
+
+Version 1.11 (23.02.2013)
+- Added Update notifier- thanks to unisphere
+- Added feature to turn on/off responsiveness
+- Fixed some bugs for carousel in small screens
+- Updated PO file
+
+Version 1.1 (21.02.2013)
+- Added fields in option panel for defining view all buttons for blog and news element
+- Added new google fonts and some improvements in loading google fonts
+- Fixed blank gravatar image
+- Fixed some bugs in IE
+- Removed short open tag from php files (in some servers this in turned off)  
+- Fixed issue on displaying portfolio items in five columns
+
+
+Version 1.01 (20.02.2013)
+- Updated  PO & MO files
+- Fixed  logo visibility bug on firefox
+- Added  Buy Now button for product page
+- Added  translator for product meta labels added to option panel
+- Added  Custom color for buy now button
+- Added  Front page translated in polish.special thanks to mafaldinha
+
+Version 1.0 (18.02.2013)
+ Initial release 
